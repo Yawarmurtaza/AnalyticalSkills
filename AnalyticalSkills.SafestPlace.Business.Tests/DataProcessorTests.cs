@@ -49,7 +49,7 @@ namespace AnalyticalSkills.SafestPlace.Business.Tests
                         Arg<IEnumerable<Point>>.Is.Anything)).Return(targetPoint);
 
             this.mockCoordManager.Stub(
-                    coordsMngr => coordsMngr.GetAllDiscardedPoints(targetPoint, testData.First().BombLocations, 10))
+                    coordsMngr => coordsMngr.GetAllDiscountedPoints(targetPoint, testData.First().BombLocations, 10))
                 .Return(discountedPoints);
 
             this.mockCoordManager.Stub(coordMngr => coordMngr.Generate3DCoords(10)).Return(allCoords);
@@ -77,7 +77,7 @@ namespace AnalyticalSkills.SafestPlace.Business.Tests
                        Arg<IEnumerable<Point>>.Is.Anything));
             this.mockDistCalc.AssertWasNotCalled(
                 distCalc => distCalc.CalculateSquaredDistance(Arg<Point>.Is.Anything, Arg<Point>.Is.Anything));
-            this.mockCoordManager.AssertWasCalled(coordsMngr => coordsMngr.GetAllDiscardedPoints(targetPoint, testData.First().BombLocations, 10));
+            this.mockCoordManager.AssertWasCalled(coordsMngr => coordsMngr.GetAllDiscountedPoints(targetPoint, testData.First().BombLocations, 10));
 
             Assert.That(result.Count(), Is.EqualTo(1));
             Assert.That(result.First().TestNumber, Is.EqualTo(44));

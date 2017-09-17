@@ -36,7 +36,7 @@ namespace AnalyticalSkills.SafestPlace.Business
         /// <param name="bombLocations">List the locations of all bombs in the cube.</param>
         /// <param name="endCoordinateValue">End limit of the coordinates.</param>
         /// <returns>Discounted points.</returns>
-        public IEnumerable<Point> GetAllDiscardedPoints(ReferencePointBombLocationDistance targetPoint, IEnumerable<Point> bombLocations, int endCoordinateValue = 1000)
+        public IEnumerable<Point> GetAllDiscountedPoints(ReferencePointBombLocationDistance targetPoint, IEnumerable<Point> bombLocations, int endCoordinateValue = 1000)
         {
             int radious = (int) Math.Sqrt(targetPoint.Distance);
             var discountedCoords = new List<Point>();

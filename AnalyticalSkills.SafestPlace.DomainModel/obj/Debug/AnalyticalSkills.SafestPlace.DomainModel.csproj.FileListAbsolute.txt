@@ -8,3 +8,8 @@ E:\Development\AnalyticalSkills\AnalyticalSkills.SafestPlace.DomainModel\bin\Deb
 E:\Development\AnalyticalSkills\AnalyticalSkills.SafestPlace.DomainModel\obj\Debug\AnalyticalSkills.SafestPlace.DomainModel.csproj.CoreCompileInputs.cache
 E:\Development\AnalyticalSkills\AnalyticalSkills.SafestPlace.DomainModel\obj\Debug\AnalyticalSkills.SafestPlace.DomainModel.dll
 E:\Development\AnalyticalSkills\AnalyticalSkills.SafestPlace.DomainModel\obj\Debug\AnalyticalSkills.SafestPlace.DomainModel.pdb
+E:\GitRepository\AnalyticalSkills\AnalyticalSkills.SafestPlace.DomainModel\bin\Debug\AnalyticalSkills.SafestPlace.DomainModel.dll
+E:\GitRepository\AnalyticalSkills\AnalyticalSkills.SafestPlace.DomainModel\bin\Debug\AnalyticalSkills.SafestPlace.DomainModel.pdb
+E:\GitRepository\AnalyticalSkills\AnalyticalSkills.SafestPlace.DomainModel\obj\Debug\AnalyticalSkills.SafestPlace.DomainModel.csproj.CoreCompileInputs.cache
+E:\GitRepository\AnalyticalSkills\AnalyticalSkills.SafestPlace.DomainModel\obj\Debug\AnalyticalSkills.SafestPlace.DomainModel.dll
+E:\GitRepository\AnalyticalSkills\AnalyticalSkills.SafestPlace.DomainModel\obj\Debug\AnalyticalSkills.SafestPlace.DomainModel.pdb

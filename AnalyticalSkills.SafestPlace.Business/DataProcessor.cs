@@ -60,7 +60,7 @@ namespace AnalyticalSkills.SafestPlace.Business
                 ReferencePointBombLocationDistance keyReferencePoint = distCalc.GetNearestBombDistanceFromFurtherest(testData.BombLocations, baseCoords);
 
                 // discount all points within that radius.
-                IEnumerable<Point> discountedPoints = coordManager.GetAllDiscardedPoints(keyReferencePoint, testData.BombLocations, EndCoordinateValue);
+                IEnumerable<Point> discountedPoints = coordManager.GetAllDiscountedPoints(keyReferencePoint, testData.BombLocations, EndCoordinateValue);
 
                 // Now we only need to check those points outside the discounted.
                 IEnumerable<Point> coordsToCheck = allCoords.Except(discountedPoints, new PointComparer());

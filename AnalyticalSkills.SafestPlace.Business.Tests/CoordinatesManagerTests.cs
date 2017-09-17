@@ -70,7 +70,7 @@ namespace AnalyticalSkills.SafestPlace.Business.Tests
             //
 
             IEnumerable<Point> discountedCoords =
-                manager.GetAllDiscardedPoints(targetLocation, bombLocations, MaxCoords).ToList();
+                manager.GetAllDiscountedPoints(targetLocation, bombLocations, MaxCoords).ToList();
 
             //
             // Assert.

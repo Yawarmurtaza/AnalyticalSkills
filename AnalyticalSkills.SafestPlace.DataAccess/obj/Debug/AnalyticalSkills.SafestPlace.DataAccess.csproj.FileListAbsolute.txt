@@ -18,3 +18,13 @@ E:\Development\AnalyticalSkills\AnalyticalSkills.SafestPlace.DataAccess\obj\Debu
 E:\Development\AnalyticalSkills\AnalyticalSkills.SafestPlace.DataAccess\obj\Debug\AnalyticalSkills.SafestPlace.DataAccess.csproj.CoreCompileInputs.cache
 E:\Development\AnalyticalSkills\AnalyticalSkills.SafestPlace.DataAccess\obj\Debug\AnalyticalSkills.SafestPlace.DataAccess.dll
 E:\Development\AnalyticalSkills\AnalyticalSkills.SafestPlace.DataAccess\obj\Debug\AnalyticalSkills.SafestPlace.DataAccess.pdb
+E:\GitRepository\AnalyticalSkills\AnalyticalSkills.SafestPlace.DataAccess\bin\Debug\AnalyticalSkills.SafestPlace.DataAccess.dll
+E:\GitRepository\AnalyticalSkills\AnalyticalSkills.SafestPlace.DataAccess\bin\Debug\AnalyticalSkills.SafestPlace.DataAccess.pdb
+E:\GitRepository\AnalyticalSkills\AnalyticalSkills.SafestPlace.DataAccess\bin\Debug\AnalyticalSkills.SafestPlace.DomainModel.dll
+E:\GitRepository\AnalyticalSkills\AnalyticalSkills.SafestPlace.DataAccess\bin\Debug\log4net.dll
+E:\GitRepository\AnalyticalSkills\AnalyticalSkills.SafestPlace.DataAccess\bin\Debug\AnalyticalSkills.SafestPlace.DomainModel.pdb
+E:\GitRepository\AnalyticalSkills\AnalyticalSkills.SafestPlace.DataAccess\bin\Debug\log4net.xml
+E:\GitRepository\AnalyticalSkills\AnalyticalSkills.SafestPlace.DataAccess\obj\Debug\AnalyticalSkills.SafestPlace.DataAccess.csprojResolveAssemblyReference.cache
+E:\GitRepository\AnalyticalSkills\AnalyticalSkills.SafestPlace.DataAccess\obj\Debug\AnalyticalSkills.SafestPlace.DataAccess.csproj.CoreCompileInputs.cache
+E:\GitRepository\AnalyticalSkills\AnalyticalSkills.SafestPlace.DataAccess\obj\Debug\AnalyticalSkills.SafestPlace.DataAccess.dll
+E:\GitRepository\AnalyticalSkills\AnalyticalSkills.SafestPlace.DataAccess\obj\Debug\AnalyticalSkills.SafestPlace.DataAccess.pdb

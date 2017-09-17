@@ -9,3 +9,8 @@ E:\Development\AnalyticalSkills\AnalyticalSkills.Programs\bin\Debug\AnalyticalSk
 E:\Development\AnalyticalSkills\AnalyticalSkills.Programs\obj\Debug\AnalyticalSkills.Programs.csproj.CoreCompileInputs.cache
 E:\Development\AnalyticalSkills\AnalyticalSkills.Programs\obj\Debug\AnalyticalSkills.Programs.dll
 E:\Development\AnalyticalSkills\AnalyticalSkills.Programs\obj\Debug\AnalyticalSkills.Programs.pdb
+E:\GitRepository\AnalyticalSkills\AnalyticalSkills.Programs\bin\Debug\AnalyticalSkills.Programs.dll
+E:\GitRepository\AnalyticalSkills\AnalyticalSkills.Programs\bin\Debug\AnalyticalSkills.Programs.pdb
+E:\GitRepository\AnalyticalSkills\AnalyticalSkills.Programs\obj\Debug\AnalyticalSkills.Programs.csproj.CoreCompileInputs.cache
+E:\GitRepository\AnalyticalSkills\AnalyticalSkills.Programs\obj\Debug\AnalyticalSkills.Programs.dll
+E:\GitRepository\AnalyticalSkills\AnalyticalSkills.Programs\obj\Debug\AnalyticalSkills.Programs.pdb

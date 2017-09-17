@@ -18,3 +18,13 @@ E:\Development\AnalyticalSkills\AnalyticalSkills.Programs.Tests\obj\Debug\Analyt
 E:\Development\AnalyticalSkills\AnalyticalSkills.Programs.Tests\obj\Debug\AnalyticalSkills.Programs.Tests.csproj.CoreCompileInputs.cache
 E:\Development\AnalyticalSkills\AnalyticalSkills.Programs.Tests\obj\Debug\AnalyticalSkills.Programs.Tests.dll
 E:\Development\AnalyticalSkills\AnalyticalSkills.Programs.Tests\obj\Debug\AnalyticalSkills.Programs.Tests.pdb
+E:\GitRepository\AnalyticalSkills\AnalyticalSkills.Programs.Tests\bin\Debug\AnalyticalSkills.Programs.Tests.dll
+E:\GitRepository\AnalyticalSkills\AnalyticalSkills.Programs.Tests\bin\Debug\AnalyticalSkills.Programs.Tests.pdb
+E:\GitRepository\AnalyticalSkills\AnalyticalSkills.Programs.Tests\bin\Debug\AnalyticalSkills.Programs.dll
+E:\GitRepository\AnalyticalSkills\AnalyticalSkills.Programs.Tests\bin\Debug\nunit.framework.dll
+E:\GitRepository\AnalyticalSkills\AnalyticalSkills.Programs.Tests\bin\Debug\AnalyticalSkills.Programs.pdb
+E:\GitRepository\AnalyticalSkills\AnalyticalSkills.Programs.Tests\bin\Debug\nunit.framework.xml
+E:\GitRepository\AnalyticalSkills\AnalyticalSkills.Programs.Tests\obj\Debug\AnalyticalSkills.Programs.Tests.csprojResolveAssemblyReference.cache
+E:\GitRepository\AnalyticalSkills\AnalyticalSkills.Programs.Tests\obj\Debug\AnalyticalSkills.Programs.Tests.csproj.CoreCompileInputs.cache
+E:\GitRepository\AnalyticalSkills\AnalyticalSkills.Programs.Tests\obj\Debug\AnalyticalSkills.Programs.Tests.dll
+E:\GitRepository\AnalyticalSkills\AnalyticalSkills.Programs.Tests\obj\Debug\AnalyticalSkills.Programs.Tests.pdb

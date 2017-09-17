@@ -1,0 +1,15 @@
+E:\Development\AnalyticalSkills.Programs\AnalyticalSkills.SafestPlaceInTheGalaxy\obj\Debug\AnalyticalSkills.SafestPlaceInTheGalaxy.csprojResolveAssemblyReference.cache
+E:\Development\AnalyticalSkills.Programs\AnalyticalSkills.SafestPlaceInTheGalaxy\obj\Debug\AnalyticalSkills.SafestPlaceInTheGalaxy.csproj.CoreCompileInputs.cache
+E:\Development\AnalyticalSkills.Programs\AnalyticalSkills.SafestPlaceInTheGalaxy\bin\Debug\AnalyticalSkills.SafestPlaceInTheGalaxy.dll
+E:\Development\AnalyticalSkills.Programs\AnalyticalSkills.SafestPlaceInTheGalaxy\bin\Debug\AnalyticalSkills.SafestPlaceInTheGalaxy.pdb
+E:\Development\AnalyticalSkills.Programs\AnalyticalSkills.SafestPlaceInTheGalaxy\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Development\AnalyticalSkills.Programs\AnalyticalSkills.SafestPlaceInTheGalaxy\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\Development\AnalyticalSkills.Programs\AnalyticalSkills.SafestPlaceInTheGalaxy\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Development\AnalyticalSkills.Programs\AnalyticalSkills.SafestPlaceInTheGalaxy\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\Development\AnalyticalSkills.Programs\AnalyticalSkills.SafestPlaceInTheGalaxy\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Development\AnalyticalSkills.Programs\AnalyticalSkills.SafestPlaceInTheGalaxy\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\Development\AnalyticalSkills.Programs\AnalyticalSkills.SafestPlaceInTheGalaxy\bin\Debug\Microsoft.Practices.Unity.xml
+E:\Development\AnalyticalSkills.Programs\AnalyticalSkills.SafestPlaceInTheGalaxy\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\Development\AnalyticalSkills.Programs\AnalyticalSkills.SafestPlaceInTheGalaxy\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\Development\AnalyticalSkills.Programs\AnalyticalSkills.SafestPlaceInTheGalaxy\obj\Debug\AnalyticalSkills.SafestPlaceInTheGalaxy.dll
+E:\Development\AnalyticalSkills.Programs\AnalyticalSkills.SafestPlaceInTheGalaxy\obj\Debug\AnalyticalSkills.SafestPlaceInTheGalaxy.pdb

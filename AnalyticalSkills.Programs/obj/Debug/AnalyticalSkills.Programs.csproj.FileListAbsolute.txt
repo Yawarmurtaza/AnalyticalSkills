@@ -1,0 +1,11 @@
+E:\Development\AnalyticalSkills.Programs\AnalyticalSkills.Programs\bin\Debug\AnalyticalSkills.Programs.dll
+E:\Development\AnalyticalSkills.Programs\AnalyticalSkills.Programs\bin\Debug\AnalyticalSkills.Programs.pdb
+E:\Development\AnalyticalSkills.Programs\AnalyticalSkills.Programs\obj\Debug\AnalyticalSkills.Programs.csproj.CoreCompileInputs.cache
+E:\Development\AnalyticalSkills.Programs\AnalyticalSkills.Programs\obj\Debug\AnalyticalSkills.Programs.dll
+E:\Development\AnalyticalSkills.Programs\AnalyticalSkills.Programs\obj\Debug\AnalyticalSkills.Programs.pdb
+E:\Development\AnalyticalSkills.Programs\AnalyticalSkills.Programs\obj\Debug\AnalyticalSkills.Programs.csprojResolveAssemblyReference.cache
+E:\Development\AnalyticalSkills\AnalyticalSkills.Programs\bin\Debug\AnalyticalSkills.Programs.dll
+E:\Development\AnalyticalSkills\AnalyticalSkills.Programs\bin\Debug\AnalyticalSkills.Programs.pdb
+E:\Development\AnalyticalSkills\AnalyticalSkills.Programs\obj\Debug\AnalyticalSkills.Programs.csproj.CoreCompileInputs.cache
+E:\Development\AnalyticalSkills\AnalyticalSkills.Programs\obj\Debug\AnalyticalSkills.Programs.dll
+E:\Development\AnalyticalSkills\AnalyticalSkills.Programs\obj\Debug\AnalyticalSkills.Programs.pdb

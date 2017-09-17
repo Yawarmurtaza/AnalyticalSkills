@@ -1,0 +1,10 @@
+E:\Development\AnalyticalSkills.Programs\AnalyticalSkills.SafestPlace.DomainModel\bin\Debug\AnalyticalSkills.SafestPlace.DomainModel.dll
+E:\Development\AnalyticalSkills.Programs\AnalyticalSkills.SafestPlace.DomainModel\bin\Debug\AnalyticalSkills.SafestPlace.DomainModel.pdb
+E:\Development\AnalyticalSkills.Programs\AnalyticalSkills.SafestPlace.DomainModel\obj\Debug\AnalyticalSkills.SafestPlace.DomainModel.csproj.CoreCompileInputs.cache
+E:\Development\AnalyticalSkills.Programs\AnalyticalSkills.SafestPlace.DomainModel\obj\Debug\AnalyticalSkills.SafestPlace.DomainModel.dll
+E:\Development\AnalyticalSkills.Programs\AnalyticalSkills.SafestPlace.DomainModel\obj\Debug\AnalyticalSkills.SafestPlace.DomainModel.pdb
+E:\Development\AnalyticalSkills\AnalyticalSkills.SafestPlace.DomainModel\bin\Debug\AnalyticalSkills.SafestPlace.DomainModel.dll
+E:\Development\AnalyticalSkills\AnalyticalSkills.SafestPlace.DomainModel\bin\Debug\AnalyticalSkills.SafestPlace.DomainModel.pdb
+E:\Development\AnalyticalSkills\AnalyticalSkills.SafestPlace.DomainModel\obj\Debug\AnalyticalSkills.SafestPlace.DomainModel.csproj.CoreCompileInputs.cache
+E:\Development\AnalyticalSkills\AnalyticalSkills.SafestPlace.DomainModel\obj\Debug\AnalyticalSkills.SafestPlace.DomainModel.dll
+E:\Development\AnalyticalSkills\AnalyticalSkills.SafestPlace.DomainModel\obj\Debug\AnalyticalSkills.SafestPlace.DomainModel.pdb
